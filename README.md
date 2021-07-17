@@ -1,9 +1,6 @@
 # Color_detection
 
-## Color dectection is done with the follow steps
-
-* Reading image
-* comparing with data set
+Color detection is done by reading a image,comparing it with  the data set and then identifying it.
 <br/>
 
  **Step-by-step procedure is given in [color.ipynb file](https://github.com/nivedha02/Color-detection/blob/main/color.ipynb)** <br />
