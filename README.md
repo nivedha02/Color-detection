@@ -1,6 +1,6 @@
 # Color detection
 
-Color detection is done by reading a image,comparing it with  the data set and then identifying it.
+Color detection is done by reading a image,comparing it with  the data set and then identifying colour in it.
 <br/>
 
 
